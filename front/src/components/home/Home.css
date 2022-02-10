@@ -1,0 +1,10 @@
+.home{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    background-size: cover;
+    background-image: url(./IMG-20190225-WA0006.jpg);
+}
+#head{
+    color: rgb(88, 12, 209);
+    text-align: center;
+}
